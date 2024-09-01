@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "967346404331",
+    "project_id": "travel--advisor",
+    "storage_bucket": "travel--advisor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967346404331:android:656f03e5abc0cf7ed377ae",
+        "android_client_info": {
+          "package_name": "com.example.travel__advisor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967346404331-ljn1hh4djftdjfsoq0t27n6skutg3ffc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNKegbWbaE1wyNNbiNZ7fpnmeyqV2TJng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967346404331-ljn1hh4djftdjfsoq0t27n6skutg3ffc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
